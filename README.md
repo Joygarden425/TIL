@@ -1,4 +1,6 @@
-# git 학습
+# Today I Learned
+
+## git 학습
 
 ## .md : 마크다운 문법을 쓰는 파일
 
